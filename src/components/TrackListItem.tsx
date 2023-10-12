@@ -3,7 +3,7 @@ import React from "react";
 import { Track } from "../../assets/data/types";
 
 const TrackListItem = ({ track }: { track: Track }) => {
-  console.log(track);
+//  console.log(track);
 
   return (
     <View style={styles.container}>
